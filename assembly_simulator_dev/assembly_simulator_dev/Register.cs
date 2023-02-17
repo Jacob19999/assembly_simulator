@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace assembly_simulator_dev
 {
-    class Register
+    class Registers
     {
         // LegV8 General purpose registers.
         // 2 types of registers:
@@ -21,6 +21,32 @@ namespace assembly_simulator_dev
         // X29     : Frame Pointer
         // X30     : Link Register
         // XZR     : Loads Zero
+        public Registers()
+        {
+            Register X0 = new Register();
+            Register X1 = new Register();
+            Register X2 = new Register();
+            Register X3 = new Register();
+            Register X4 = new Register();
+            Register X5 = new Register();
+            Register X6 = new Register();
+            Register X7 = new Register();
+            Register X8 = new Register();
+            Register X9 = new Register();
+            Register X10 = new Register();
+            Register X11 = new Register();
+
+
+
+
+
+
+        }
+
+    }
+    class Register
+    {
+
 
         int[] bytes = new int[8] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
 
@@ -83,5 +109,7 @@ namespace assembly_simulator_dev
         {
             return bytes;
         }
+
+
     }
 }
