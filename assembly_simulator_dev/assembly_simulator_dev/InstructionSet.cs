@@ -10,7 +10,21 @@ namespace assembly_simulator_dev
     {
 
 
+        public InstructionSet()
+        {
 
+        }
+
+        public void ADD(string Rd, string Rn, string Rm)
+        {
+
+            // Generate machine code
+
+
+
+
+
+        }
 
 
 

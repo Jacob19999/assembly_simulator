@@ -6,20 +6,22 @@ using System.Threading.Tasks;
 
 namespace assembly_simulator_dev
 {
-    internal class Program
+    class Instructions
     {
-        static void Main(string[] args)
-        {
-            Arm cpu = new Arm();
-            
 
+        public Instructions()
+        {
+
+        }
+
+
+        public void ADD()
+        {
 
 
         }
 
 
 
-
     }
 }
-

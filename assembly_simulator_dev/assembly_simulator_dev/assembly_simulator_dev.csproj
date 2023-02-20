@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arm.cs" />
+    <Compile Include="Instructions.cs" />
     <Compile Include="Memory.cs" />
+    <Compile Include="Pipeline.cs" />
     <Compile Include="Register.cs" />
     <Compile Include="InstructionSet.cs" />
     <Compile Include="Program.cs" />

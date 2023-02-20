@@ -6,3 +6,11 @@ C:\Users\tngzj\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simula
 C:\Users\tngzj\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.csproj.CoreCompileInputs.cache
 C:\Users\tngzj\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.exe
 C:\Users\tngzj\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.pdb
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\bin\Debug\assembly_simulator_dev.exe.config
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\bin\Debug\assembly_simulator_dev.exe
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\bin\Debug\assembly_simulator_dev.pdb
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.exe
+C:\Users\user\Desktop\assembly_simulator\assembly_simulator_dev\assembly_simulator_dev\obj\Debug\assembly_simulator_dev.pdb

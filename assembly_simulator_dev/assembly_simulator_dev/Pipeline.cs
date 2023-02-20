@@ -6,20 +6,7 @@ using System.Threading.Tasks;
 
 namespace assembly_simulator_dev
 {
-    internal class Program
+    internal class Pipeline
     {
-        static void Main(string[] args)
-        {
-            Arm cpu = new Arm();
-            
-
-
-
-        }
-
-
-
-
     }
 }
-
