@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arm.cs" />
+    <Compile Include="Cycle.cs" />
     <Compile Include="Instructions.cs" />
     <Compile Include="Memory.cs" />
     <Compile Include="Pipeline.cs" />

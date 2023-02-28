@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace assembly_simulator_dev
 {
-    internal class Pipeline
+    class Pipeline
     {
+
+
+
+
     }
 }

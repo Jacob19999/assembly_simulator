@@ -11,8 +11,13 @@ namespace assembly_simulator_dev
         static void Main(string[] args)
         {
             Arm cpu = new Arm();
-            
 
+            Memory memoryBank = new Memory(256);
+
+            //MemoryCell cell = new MemoryCell();
+
+            //cell.setMemAddress(10);
+            //cell.printAddress();
 
 
         }

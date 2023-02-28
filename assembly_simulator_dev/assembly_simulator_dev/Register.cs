@@ -24,6 +24,7 @@ namespace assembly_simulator_dev
         // XZR     : Loads Zero
 
         int[] bytes = new int[8] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+
         bool realOnly = false; 
 
         public Register()
